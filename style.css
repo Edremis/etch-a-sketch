@@ -20,11 +20,10 @@
     /*width: 20%;*/
     aspect-ratio: 1/1;
     flex: 1 0 21%;
+    background-color: #FFFFFF;
 }
 
-.blue{
-    background-color: blue;
-}
+
 
 button{
     display: flex;
